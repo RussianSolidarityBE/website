@@ -32,7 +32,7 @@ a:hover {
 
 /* fixed-width */
 .fixed-width > * {
-    max-width:31em;
+    max-width:32em;
     margin:0 auto;
 }
 
