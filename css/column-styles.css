@@ -34,6 +34,14 @@ a:hover {
 .fixed-width > * {
     max-width:32em;
     margin:0 auto;
+    text-align:justify;
+}
+
+/* fixed-width-wider: wider */
+.fixed-width-wide > * {
+    max-width:38em;
+    margin:0 auto;
+    text-align:justify;
 }
 
 /* full-screen centered */
